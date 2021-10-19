@@ -1,0 +1,27 @@
+﻿p{color:black}
+body{background-color:mediumpurple}
+
+
+.greenColor {
+    color: forestgreen;
+    font-family: Arial;
+    font-size: 24px;     
+}
+
+.smallgreenColor {
+    color: green;
+    font-family: Arial;
+    font-size: 14px;
+}
+#specificColor {
+    color: aqua;
+    font-family: verdana;
+    font-size: 24px;
+    text-align:center
+}
+
+#specificLink {
+    color: green;
+    font-family: arial;
+    font-size: 12px;
+}
